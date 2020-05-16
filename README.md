@@ -107,6 +107,11 @@ Run `python manage.py makemigrations && python manage.py migrate` to add our Sid
 
 In the Wagtail admin you should now be able to create a Sidebar page which shows up in a two column layout. When you view or preview the page you should see the templated content.
 
+Developers
+---
+
+
+
 License
 -------
 
